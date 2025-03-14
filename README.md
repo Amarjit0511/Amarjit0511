@@ -17,78 +17,126 @@
 </div>
 
 <a href="https://github.com/Amarjit0511">
-  <img align="right" alt="AI Coding" width="360" height="320"src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFrNzl1djQ3bTRoODJ3eTg5Y2kyd2txNGJjcHp1emVpY2N5aHhzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f7omQNmgiyjj5sffvZ/giphy.gif">
+  <img align="right" alt="AI Coding" width="300" height="270"src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFrNzl1djQ3bTRoODJ3eTg5Y2kyd2txNGJjcHp1emVpY2N5aHhzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f7omQNmgiyjj5sffvZ/giphy.gif">
+  
 </a>
 
 ## About Me
 
-<details open>
-<summary><b>👨‍💻 Click to expand/collapse</b></summary>
-<br>
-
-```javascript
-const amarjit = {
-  expertise: ["LLMs", "Multimodal AI", "Computer Vision", "RAG"],
-  experience: "2+ years building production-grade AI systems",
-  impact: "40-65% efficiency gains for businesses",
-  languages: ["Python"],
-  currentFocus: "AI agents & real-time multimodal systems",
-  mission: "Turning cutting-edge research into scalable solutions"
-};
+```python
+amarjit = {
+    "expertise": ["LLMs", "Multimodal AI", "Computer Vision", "RAG"],
+    "experience": "2+ years building production-grade AI systems",
+    "impact": "40-65% efficiency gains for businesses",
+    "languages": ["Python"],
+    "currentFocus": "AI agents & real-time multimodal systems",
+    "mission": "Turning cutting-edge research into scalable solutions"
+}
 ```
-</details>
 
 ## Tech Stack & Tools
-<details open>
-<summary><b>🎮 Click to expand/collapse</b></summary>
-<br>
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-Click%20a%20category%20below-blueviolet?style=for-the-badge&logo=superuser&logoColor=white"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A64DFF&center=true&vCenter=true&width=500&lines=My+Technical+Arsenal;Tools+That+Power+My+Solutions;Technologies+I+Master" alt="Tech Stack Typing" />
 </div>
 
-<details>
-<summary><img src="https://img.shields.io/badge/-AI%20%26%20ML-9cf?style=flat-square&logo=ai&logoColor=black"> <b>AI & Machine Learning</b></summary>
-<p align="center">
-  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-00ADD8?style=flat-square&logo=chainlink&logoColor=white" />
-  <img alt="HuggingFace" src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img alt="Stable Diffusion" src="https://img.shields.io/badge/-Stable_Diffusion-000000?style=flat-square&logo=stable-diffusion&logoColor=white" />
-  <img alt="LlamaIndex" src="https://img.shields.io/badge/-LlamaIndex-4B275F?style=flat-square&logo=llama&logoColor=white" />
-  <img alt="AutoGen" src="https://img.shields.io/badge/-AutoGen-FF6F61?style=flat-square&logo=windows-terminal&logoColor=white" />
-  <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-</p>
-</details>
+<!-- AI & ML Section -->
+<div align="center">
+  <h3>🧠 AI & Machine Learning</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+        <br><sub><b>Deep Learning</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-LangChain-00ADD8?style=for-the-badge&logo=chainlink&logoColor=white" />
+        <br><sub><b>LLM Orchestration</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+        <br><sub><b>Model Hub</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Stable_Diffusion-000000?style=for-the-badge&logo=stable-diffusion&logoColor=white" />
+        <br><sub><b>Image Generation</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-LlamaIndex-4B275F?style=for-the-badge&logo=llama&logoColor=white" />
+        <br><sub><b>Data Framework</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-AutoGen-FF6F61?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+        <br><sub><b>Agent Framework</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+        <br><sub><b>Computer Vision</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
+        <br><sub><b>Model Exchange</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<details>
-<summary><img src="https://img.shields.io/badge/-Cloud-blue?style=flat-square&logo=icloud&logoColor=white"> <b>Cloud & Infrastructure</b></summary>
-<p align="center">
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img alt="Azure OpenAI" src="https://img.shields.io/badge/-Azure_OpenAI-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
-  <img alt="GCP" src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-</p>
-</details>
+<!-- Cloud & Infrastructure -->
+<div align="center">
+  <h3>☁️ Cloud & Infrastructure</h3>
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+        <br><sub><b>Amazon Web Services</b></sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/-Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+        <br><sub><b>Microsoft Azure</b></sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+        <br><sub><b>Google Cloud</b></sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+        <br><sub><b>Container Orchestration</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<details>
-<summary><img src="https://img.shields.io/badge/-Database-lightgrey?style=flat-square&logo=mongodb&logoColor=white"> <b>Databases & Storage</b></summary>
-<p align="center">
-  <img alt="Qdrant" src="https://img.shields.io/badge/-Qdrant-6F2DA8?style=flat-square&logo=elasticsearch&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="MinIO" src="https://img.shields.io/badge/-MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" />
-</p>
-</details>
+<!-- Databases & Storage -->
+<div align="center">
+  <h3>💾 Databases & Storage</h3>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <div style="text-align: center;">
+      <img src="https://img.shields.io/badge/-Qdrant-6F2DA8?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+      <p><b>Vector Database</b></p>
+    </div>
+    <div style="text-align: center;">
+      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <p><b>Relational Database</b></p>
+    </div>
+    <div style="text-align: center;">
+      <img src="https://img.shields.io/badge/-MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" />
+      <p><b>Object Storage</b></p>
+    </div>
+  </div>
+</div>
 
-<details>
-<summary><img src="https://img.shields.io/badge/-DevTools-orange?style=flat-square&logo=visualstudiocode&logoColor=white"> <b>Development Tools</b></summary>
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
-</details>
-</details>
+<!-- Development Tools -->
+<div align="center">
+  <h3>🛠️ Development Tools</h3>
+  <div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </div>
+</div>
 
 ## Key Innovations
 
@@ -302,10 +350,6 @@ const amarjit = {
 
 ## Let's Connect!
 
-<details open>
-<summary><b>🔗 Click to expand/collapse</b></summary>
-<br>
-
 <div align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="150">
   
@@ -325,8 +369,6 @@ const amarjit = {
     <img height="30" src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
-
-</details>
 
 ---
 
