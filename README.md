@@ -33,304 +33,262 @@ amarjit = {
     "mission": "Turning cutting-edge research into scalable solutions"
 }
 ```
-
 ## Tech Stack & Tools
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A64DFF&center=true&vCenter=true&width=500&lines=My+Technical+Arsenal;Tools+That+Power+My+Solutions;Technologies+I+Master" alt="Tech Stack Typing" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A64DFF&vCenter=true&width=500&lines=My+Technical+Arsenal;Tools+That+Power+My+Solutions;Technologies+I+Master" alt="Tech Stack Typing" />
 
-<!-- AI & ML Section -->
-<div align="center">
-  <h3>🧠 AI & Machine Learning</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-        <br><sub><b>Deep Learning</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-LangChain-00ADD8?style=for-the-badge&logo=chainlink&logoColor=white" />
-        <br><sub><b>LLM Orchestration</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-        <br><sub><b>Model Hub</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-Stable_Diffusion-000000?style=for-the-badge&logo=stable-diffusion&logoColor=white" />
-        <br><sub><b>Image Generation</b></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-LlamaIndex-4B275F?style=for-the-badge&logo=llama&logoColor=white" />
-        <br><sub><b>Data Framework</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-AutoGen-FF6F61?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-        <br><sub><b>Agent Framework</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-        <br><sub><b>Computer Vision</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
-        <br><sub><b>Model Exchange</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
+### 🧠 AI & Machine Learning
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+      <br><sub><b>Deep Learning</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-LangChain-00ADD8?style=for-the-badge&logo=chainlink&logoColor=white" />
+      <br><sub><b>LLM Orchestration</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+      <br><sub><b>Model Hub</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Stable_Diffusion-000000?style=for-the-badge&logo=stable-diffusion&logoColor=white" />
+      <br><sub><b>Image Generation</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-LlamaIndex-4B275F?style=for-the-badge&logo=llama&logoColor=white" />
+      <br><sub><b>Data Framework</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-AutoGen-FF6F61?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+      <br><sub><b>Agent Framework</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+      <br><sub><b>Computer Vision</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
+      <br><sub><b>Model Exchange</b></sub>
+    </td>
+  </tr>
+</table>
 
-<!-- Cloud & Infrastructure -->
-<div align="center">
-  <h3>☁️ Cloud & Infrastructure</h3>
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-        <br><sub><b>Amazon Web Services</b></sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/-Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-        <br><sub><b>Microsoft Azure</b></sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-        <br><sub><b>Google Cloud</b></sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-        <br><sub><b>Container Orchestration</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
+### ☁️ Cloud & Infrastructure
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+      <br><sub><b>Amazon Web Services</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/-Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+      <br><sub><b>Microsoft Azure</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+      <br><sub><b>Google Cloud</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+      <br><sub><b>Container Orchestration</b></sub>
+    </td>
+  </tr>
+</table>
 
-<!-- Databases & Storage -->
-<div align="center">
-  <h3>💾 Databases & Storage</h3>
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <div style="text-align: center;">
+### 💾 Databases & Storage
+<table>
+  <tr>
+    <td align="center">
       <img src="https://img.shields.io/badge/-Qdrant-6F2DA8?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-      <p><b>Vector Database</b></p>
-    </div>
-    <div style="text-align: center;">
+      <br><sub><b>Vector Database</b></sub>
+    </td>
+    <td align="center">
       <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <p><b>Relational Database</b></p>
-    </div>
-    <div style="text-align: center;">
+      <br><sub><b>Relational Database</b></sub>
+    </td>
+    <td align="center">
       <img src="https://img.shields.io/badge/-MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" />
-      <p><b>Object Storage</b></p>
-    </div>
-  </div>
-</div>
-
-<!-- Development Tools -->
-<div align="center">
-  <h3>🛠️ Development Tools</h3>
-  <div>
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </div>
-</div>
-
-## Key Innovations
-
-<details open>
-<summary><b>🔥 Click to expand/collapse</b></summary>
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=435&lines=AI-Powered+Interior+Design;Retail+Vision+Intelligence;HIPAA-Compliant+Medical+Assistant" alt="Projects" />
-</div>
-
-<!-- Interactive Project Cards -->
-<div align="center">
-  <!-- Project 1 Card -->
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amarjit0511&repo=design-ai-platform&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" width="400" />
-  </a>
-  <!-- Project 2 Card -->
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amarjit0511&repo=retail-vision-system&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" width="400" />
-  </a>
-</div>
-
-<details>
-<summary><b>👉 Click for detailed achievements</b></summary>
-<br>
-
-### AI-Powered Interior Design Platform
-
-<table>
-  <tr>
-    <td><b>Challenge:</b></td>
-    <td>Design iterations taking 5+ days, limiting client satisfaction</td>
-  </tr>
-  <tr>
-    <td><b>Solution:</b></td>
-    <td>
-      • Built multi-stage diffusion pipeline with 78% improved coherence<br>
-      • Developed NLP-driven in-painting workflows for natural language edits<br>
-      • Implemented Kubernetes-based scaling for concurrent design projects
-    </td>
-  </tr>
-  <tr>
-    <td><b>Impact:</b></td>
-    <td>
-      • ⏱️ Reduced iteration time from <b>5 days → 30 minutes</b><br>
-      • 📈 Achieved <b>95% client satisfaction</b> rate<br>
-      • 💻 Technologies: Stable Diffusion, ControlNet, CLIP, Kubernetes
+      <br><sub><b>Object Storage</b></sub>
     </td>
   </tr>
 </table>
 
-### Retail Inventory Vision System
-
+### 🛠️ Development Tools
 <table>
   <tr>
-    <td><b>Challenge:</b></td>
-    <td>Inventory management inefficiencies causing revenue loss</td>
-  </tr>
-  <tr>
-    <td><b>Solution:</b></td>
-    <td>
-      • Engineered high-precision classification system for diverse retail items<br>
-      • Built dimension estimation capability with advanced computer vision<br>
-      • Created scalable AWS pipeline for distributed store deployment
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <br><sub><b>Primary Language</b></sub>
     </td>
-  </tr>
-  <tr>
-    <td><b>Impact:</b></td>
-    <td>
-      • 🔍 <b>96% accuracy</b> classifying 15K+ SKUs daily<br>
-      • 📏 Precision dimension estimates (±2mm accuracy)<br>
-      • 💻 Technologies: YOLOv8, OpenCV, AWS, Docker
+    <td align="center">
+      <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+      <br><sub><b>API Framework</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <br><sub><b>Containerization</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <br><sub><b>Version Control</b></sub>
     </td>
   </tr>
 </table>
 
-### HIPAA-Compliant Medical Assistant
+
+## Contribution Forest
+<summary><b>🌲 My GitHub Ecosystem</b></summary>
+
+### 🔥 Contribution Streak
+
+<a href="https://github.com/Amarjit0511">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amarjit0511&theme=buefy&background=ffffff&stroke=eeeeee&currStreakLabel=6F42C1&sideLabels=6F42C1&currStreakNum=20BEFF&fire=FF428E&dates=666666&sideNums=20BEFF&ring=FF428E" alt="GitHub Streak Stats" width="100%" />
+</a>
+
+### 🌿 Growth Metrics
 
 <table>
   <tr>
-    <td><b>Challenge:</b></td>
-    <td>Healthcare information bottlenecks and accessibility issues</td>
-  </tr>
-  <tr>
-    <td><b>Solution:</b></td>
-    <td>
-      • Developed secure RAG architecture integrated with medical knowledge base<br>
-      • Implemented fine-tuned LLM with medical domain adaptation<br>
-      • Created secure deployment with HIPAA-compliant data handling
+    <td width="50%">
+      <a href="https://github.com/Amarjit0511">
+        <img src="https://github-readme-stats.vercel.app/api?username=Amarjit0511&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&icon_color=6F42C1&title_color=0366D6&text_color=333333" width="100%" />
+      </a>
+      <p align="center">Overall contribution statistics</p>
     </td>
-  </tr>
-  <tr>
-    <td><b>Impact:</b></td>
-    <td>
-      • 🏥 Handled <b>15K+ patient interactions/month</b> with 97% accuracy<br>
-      • 📚 Integrated with <b>3M+ medical documents</b> (94% retrieval precision)<br>
-      • 💻 Technologies: Azure OpenAI, LangChain, Qdrant
+    <td width="50%">
+      <a href="https://github.com/Amarjit0511">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarjit0511&layout=compact&theme=default&hide_border=true&title_color=0366D6&text_color=333333" width="100%" />
+      </a>
+      <p align="center">Language diversity across repositories</p>
     </td>
   </tr>
 </table>
-</details>
-</details>
 
-## 📈 Contribution Forest
+### 🏞️ 3D Visualization
 
-<details open>
-<summary><b>🌲 Click to expand/collapse</b></summary>
-<br>
+<table>
+  <tr>
+    <td width="35%">
+      <a href="https://skyline.github.com/" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Your%203D%20Contribution%20Forest-0366D6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline" />
+      </a>
+    </td>
+    <td width="65%">
+      <p><b>GitHub Skyline:</b> See your contribution graph as a 3D cityscape where each contribution builds a tower in your forest</p>
+    </td>
+  </tr>
+</table>
 
-<!-- Guaranteed working contribution visualizations that create a "forest" effect -->
-<div align="center">
-  <!-- Main contribution calendar -->
-  <a href="https://github.com/Amarjit0511">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amarjit0511&theme=radical&background=141321&stroke=141321&currStreakLabel=A9FEF7&sideLabels=A9FEF7&currStreakNum=F8D847&fire=FF428E&dates=FFFFFF&sideNums=F8D847&ring=FF428E" alt="GitHub Streak Stats" />
-  </a>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Amarjit0511&style=flat-square&color=0366D6" alt="Profile Views">
 </div>
-
-<br>
-
-<!-- Stats cards acting as "trees" in the forest -->
-<div align="center">
-  <a href="https://github.com/Amarjit0511">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amarjit0511&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=141321&icon_color=F8D847&title_color=A9FEF7&text_color=FFFFFF" />
-  </a>
-  
-  <a href="https://github.com/Amarjit0511">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarjit0511&layout=compact&theme=radical&hide_border=true&bg_color=141321&title_color=A9FEF7&text_color=FFFFFF" />
-  </a>
-</div>
-
-<br>
-
-<!-- Contribution graph visual represents the "forest density" -->
-<div align="center">
-  <a href="https://github.com/Amarjit0511">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amarjit0511&theme=github-compact&bg_color=141321&color=A9FEF7&line=FF428E&point=F8D847&area=true&area_color=29EB7F&hide_border=true" width="800" />
-  </a>
-</div>
-
-<div align="center">
-  <br>
-  <a href="https://skyline.github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Your%203D%20Contribution%20Forest-76B900?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline" />
-  </a>
-</div>
-</details>
 
 ## Certifications & Skills
 
-<details open>
-<summary><b>📚 Click to expand/collapse</b></summary>
-<br>
+### 🧠 Skill Proficiency Matrix
 
-<div align="center">
-  <!-- Skills indicators -->
-  <p>
-    <img src="https://img.shields.io/badge/LLMs-Expert-9cf?style=for-the-badge&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/Computer%20Vision-Expert-9cf?style=for-the-badge&logo=opencv&logoColor=white" />
-    <img src="https://img.shields.io/badge/RAG-Expert-9cf?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-Expert-9cf?style=for-the-badge&logo=python&logoColor=white" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Docker-Advanced-blueviolet?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kubernetes-Advanced-blueviolet?style=for-the-badge&logo=kubernetes&logoColor=white" />
-    <img src="https://img.shields.io/badge/FastAPI-Advanced-blueviolet?style=for-the-badge&logo=fastapi&logoColor=white" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/AWS-Proficient-blue?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Azure-Proficient-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/GCP-Proficient-blue?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  </p>
-</div>
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Expert</th>
+    <th>Advanced</th>
+    <th>Proficient</th>
+  </tr>
+  <tr>
+    <td><b>AI & ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-LLMs-9cf?style=for-the-badge&logo=openai&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/-RAG-9cf?style=for-the-badge&logo=elasticsearch&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/-Computer%20Vision-9cf?style=for-the-badge&logo=opencv&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-Multimodal%20Models-blueviolet?style=for-the-badge&logo=pytorch&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/-Hugging%20Face-blueviolet?style=for-the-badge&logo=huggingface&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-Stable%20Diffusion-blue?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Infrastructure</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Python-9cf?style=for-the-badge&logo=python&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-Docker-blueviolet?style=for-the-badge&logo=docker&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/-Kubernetes-blueviolet?style=for-the-badge&logo=kubernetes&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/-FastAPI-blueviolet?style=for-the-badge&logo=fastapi&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-AWS-blue?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/-Azure-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/-GCP-blue?style=for-the-badge&logo=google-cloud&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Qdrant-blueviolet?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/-MinIO-blue?style=for-the-badge&logo=minio&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img alt="Databricks" src="https://img.shields.io/badge/Databricks_Certified_ML_Professional-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img alt="DeepLearning.AI" src="https://img.shields.io/badge/AI_For_Everyone-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
-</div>
+### 🎓 Certifications
 
-<!-- Trophies represent achievements like trees in a forest -->
-<div align="center">
-  <br>
-  <a href="https://github.com/Amarjit0511">
-    <img src="https://github-profile-trophy.vercel.app/?username=Amarjit0511&theme=radical&column=4&margin-w=15&margin-h=15&no-frame=true" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Databricks%20Certified%20ML%20Professional-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-DeepLearning.AI:%20AI%20For%20Everyone-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-PyTorch%20Advanced%20Implementations-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-HuggingFace%20LLM%20Deployment-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
-</details>
+### 📊 Project Impact Metrics
+
+<table>
+  <tr>
+    <td align="center">
+      <h3>40-65%</h3>
+      <p>Efficiency gains for businesses</p>
+    </td>
+    <td align="center">
+      <h3>15K+</h3>
+      <p>Patient interactions per month</p>
+    </td>
+    <td align="center">
+      <h3>95%</h3>
+      <p>Client satisfaction rate</p>
+    </td>
+  </tr>
+</table>
+
+### 🏆 GitHub Achievements
+
+<a href="https://github.com/Amarjit0511">
+  <img src="https://github-profile-trophy.vercel.app/?username=Amarjit0511&theme=flat&column=7&margin-w=15&margin-h=15&no-frame=true" />
+</a>
 
 ## What's Next?
-
-<details open>
-<summary><b>🔍 Click to expand/collapse</b></summary>
-<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00FF00&center=false&vCenter=true&width=435&height=30&lines=Exploring+AI+agents;Building+real-time+multimodal+systems;Contributing+to+open-source+AI+tools" alt="Current Focus" />
 
@@ -345,8 +303,6 @@ amarjit = {
     <img src="https://img.shields.io/badge/Open%20Source-Contributing-blue?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
-
-</details>
 
 ## Let's Connect!
 
