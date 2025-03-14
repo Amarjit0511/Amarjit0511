@@ -201,43 +201,43 @@ amarjit = {
   <tr>
     <td><b>AI & ML</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-LLMs-9cf?style=for-the-badge&logo=openai&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/-RAG-9cf?style=for-the-badge&logo=elasticsearch&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/-Computer%20Vision-9cf?style=for-the-badge&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/-LLMs-A64DFF?style=for-the-badge&logo=openai&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/-RAG-A64DFF?style=for-the-badge&logo=elasticsearch&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/-Computer%20Vision-A64DFF?style=for-the-badge&logo=opencv&logoColor=white" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/-Multimodal%20Models-blueviolet?style=for-the-badge&logo=pytorch&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/-Hugging%20Face-blueviolet?style=for-the-badge&logo=huggingface&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Multimodal%20Models-FF428E?style=for-the-badge&logo=pytorch&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/-Hugging%20Face-FF428E?style=for-the-badge&logo=huggingface&logoColor=white" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/-Stable%20Diffusion-blue?style=for-the-badge&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Stable%20Diffusion-20BEFF?style=for-the-badge&logo=tensorflow&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td><b>Infrastructure</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-Python-9cf?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Python-A64DFF?style=for-the-badge&logo=python&logoColor=white" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/-Docker-blueviolet?style=for-the-badge&logo=docker&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/-Kubernetes-blueviolet?style=for-the-badge&logo=kubernetes&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/-FastAPI-blueviolet?style=for-the-badge&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Docker-FF428E?style=for-the-badge&logo=docker&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/-Kubernetes-FF428E?style=for-the-badge&logo=kubernetes&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/-FastAPI-FF428E?style=for-the-badge&logo=fastapi&logoColor=white" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/-AWS-blue?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/-Azure-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/-GCP-blue?style=for-the-badge&logo=google-cloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/-AWS-20BEFF?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/-Azure-20BEFF?style=for-the-badge&logo=microsoft-azure&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/-GCP-20BEFF?style=for-the-badge&logo=google-cloud&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td><b>Databases</b></td>
     <td></td>
     <td>
-      <img src="https://img.shields.io/badge/-Qdrant-blueviolet?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Qdrant-FF428E?style=for-the-badge&logo=elasticsearch&logoColor=white" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/-MinIO-blue?style=for-the-badge&logo=minio&logoColor=white" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-20BEFF?style=for-the-badge&logo=postgresql&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/-MinIO-20BEFF?style=for-the-badge&logo=minio&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -247,46 +247,14 @@ amarjit = {
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/-Databricks%20Certified%20ML%20Professional-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Databricks%20Certified%20ML%20Professional-FF428E?style=for-the-badge&logo=databricks&logoColor=white" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/-DeepLearning.AI:%20AI%20For%20Everyone-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-PyTorch%20Advanced%20Implementations-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-HuggingFace%20LLM%20Deployment-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+      <img src="https://img.shields.io/badge/-DeepLearning.AI:%20AI%20For%20Everyone-A64DFF?style=for-the-badge&logo=coursera&logoColor=white" />
     </td>
   </tr>
 </table>
 
-### 📊 Project Impact Metrics
-
-<table>
-  <tr>
-    <td align="center">
-      <h3>40-65%</h3>
-      <p>Efficiency gains for businesses</p>
-    </td>
-    <td align="center">
-      <h3>15K+</h3>
-      <p>Patient interactions per month</p>
-    </td>
-    <td align="center">
-      <h3>95%</h3>
-      <p>Client satisfaction rate</p>
-    </td>
-  </tr>
-</table>
-
-### 🏆 GitHub Achievements
-
-<a href="https://github.com/Amarjit0511">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amarjit0511&theme=flat&column=7&margin-w=15&margin-h=15&no-frame=true" />
-</a>
 
 ## What's Next?
 
