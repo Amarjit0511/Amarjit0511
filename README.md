@@ -26,7 +26,7 @@
 ```python
 amarjit = {
     "expertise": ["LLMs", "Multimodal AI", "Computer Vision", "RAG"],
-    "experience": "2+ years building production-grade AI systems",
+    "experience": "3+ years building production-grade AI systems",
     "impact": "40-65% efficiency gains for businesses",
     "languages": ["Python"],
     "currentFocus": "AI agents & real-time multimodal systems",
