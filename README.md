@@ -1,7 +1,7 @@
 # Hi There! I'm Amarjit
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A64DFF&center=true&vCenter=true&width=940&lines=Senior+Generative+AI+Engineer;Building+Intelligent+Systems+That+Deliver+Impact;2%3.5B+Years+of+Production-Grade+AI+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A64DFF&center=true&vCenter=true&width=940&lines=Senior+Generative+AI+Engineer;Building+Intelligent+Systems+That+Deliver+Impact;3.5%2B+Years+of+Production-Grade+AI+Experience" alt="Typing SVG" />
   
   <br>
   
